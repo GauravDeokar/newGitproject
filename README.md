@@ -1,0 +1,2 @@
+# newGitproject
+Time to practice
