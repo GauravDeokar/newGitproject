@@ -1,0 +1,176 @@
+Python Introduction:
+
+1989 --
+
+Python use : Data 
+
+Area : DE,DA,ML,DL,AL,Automaation 
+
+Features:
+
+1.Easy to Learn
+2.High level Lang --> English 
+3.Interpreter Based Lang 
+4.Platform Independent -- write once execute anywhere
+5.Lakhs of inbuilt lib --> 
+6.portable lang
+7.open source
+8.Dnyamically typed lang -- IMP
+9.Python is Proce as OOPS
+
+
+Limitation:
+1.Python -->is not used for mobile application
+2.Python wont supoort backward compatiblity
+
+python version:
+
+1.x
+2.x
+3.x
+3.8
+3.9
+3.10
+3.11 -- 
+
+print "Hi" 2.x
+
+print("Hi") 3.x
+
+Migrations : 
+
+Installation :
+
+1.Anaconda Navigator
+
+
+default location
+
+
+Rules to define identifiers:
+1.allowed char  -- a-z/A-Z/0-9/_
+2.identifiers nevers startswith number
+3.no special char use except _
+4.no limit for variable length 
+      meaning full name and follwe case rule
+	  1.PascalCase  -- first letter of every word is in uppercase
+	  2.camelCase   -- last word is in uppercase
+	  3.snake_case  -- to join every letter by _
+5.Python is case sensetive lang
+
+=================================================================
+17.04.2023
+
+Data types/Data structure:
+Data type :
+
+
+type of data 
+
+int
+float
+str
+complex
+None
+bool
+
+
+1.int -- > without decimal (complete number)
+2.float --> with decimal point
+3.str --> single char or multiple string(char arranged in perticular order)
+
+
+
+char  
+
+a ,z - -> char
+
+
+
+c/c++/java 
+gen = 'F'
+
+char 
+
+gen = 'F'
+
+
+type(data type /DS) :
+
+
+complex number 
+
+real+img*constant
+
+
+complex -- > 10+45j
+
+None -- empty 
+
+
+emp_address = None
+
+bool -- True/False
+
+Data type /Data Structure:
+===========================
+int
+float
+str
+bool
+complex
+None
+
+
+Data Structure:
+================
+it is collection of different data types arranged in perticular order
+
+list
+tuple
+set
+dict
+str
+frozenset
+
+
+Mutable  vs Immutable:
+=======================
+Mutable : Changable : Unhashable
+
+We can insert/delete/update operation
+
+Immutable :
+
+Immutable : unchangable : Hashable 
+
+we can't change its structure it is read only 
+
+
+List:
+===========
+
+it is collection of data types 
+
+similar : Homogeneous list
+different : Hetrogeneous list
+
+2.denoted by []
+3.element of list can be access throght indexing
+
+types of indexing:
+==================
+1.Forward/Positive =  start from left to right starting index is 0
+2.Reverse/Negative = start from right to left starting index is -1
+
+4.List is ordered type
+5.List can contain duplicate elements
+
+
+
+Operation on list:
+insertion 
+
+1.insert
+2.append
+3.extend
